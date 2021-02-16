@@ -1,6 +1,6 @@
 # data-center-simulator
 
-A very simple Python script which is useful to demonstrate
+A very simple Python script which is useful for demonstrating
 
 1. data center simulation (racks, devices, blocks )
 2. data simulation (support only GBs)
